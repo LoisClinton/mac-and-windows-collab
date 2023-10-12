@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+}
+
+.main-heading {
+  color: white;
+  text-align: center;
+  font-family: "Zen Kaku Gothic New", sans-serif;
+  font-weight: 200;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  color: white;
+}
+
+.mac-section {
+  padding: 2rem;
+  background-color: rgb(82, 82, 82);
+  width: 45%;
+  font-family: "Zen Kaku Gothic New", sans-serif;
+  font-weight: 200;
+}
+.mac-section img {
+  max-width: 30%;
+}
+
+.list-desc {
+  color: white;
+}
+
+ol {
+  color: aliceblue;
+}
+
+ul {
+  color: aliceblue;
+}
+.space-between {
+  width: 3rem;
+}
+.windows-section {
+  padding: 2rem;
+  background-color: rgb(73, 111, 102);
+  width: 45%;
+  font-family: "Zen Kaku Gothic New", sans-serif;
+  font-weight: 200;
+}
+.windows-section img {
+  max-width: 30%;
+}
